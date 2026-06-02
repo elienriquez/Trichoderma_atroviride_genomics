@@ -14,7 +14,7 @@ prefetch --option-file SRR_Acc_List.txt
 fastq-dump *.sra
 ```
 
-## Eliminate low quality reads and trim adapters with fastqc
+## Eliminate low quality reads and trim adapters with Trimmomatic
 
 Loop for single-end reads
 
