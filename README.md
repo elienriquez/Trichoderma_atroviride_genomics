@@ -2,6 +2,8 @@
 
 In this github we share code for transcriptomic and correlation networks analysis of Trichoderma atroviride RNA-seq data
 
+## WGCNA code for Trichoderma atroviride RNA-seq data
+
 This is a WGCNA tutorial for gene expression data. We will use the R package WGCNA to construct a gene co-expression network and identify modules of co-expressed genes. 
 The tutorial assumes that you have already performed gene quantification and have a count matrix ready for analysis.
 
